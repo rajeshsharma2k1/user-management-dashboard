@@ -31,9 +31,6 @@ DELETE - Remove a user.
 
 <h2>Challenges Faced</h2>
 
-JSONPlaceholder does not persist data, so adding, editing, and deleting users only simulate changes.
-Had to handle user name splitting (firstName, lastName).
-
 <h2>Possible Improvements</h2>
 Implement a real backend with Node.js & Express for actual data persistence.
 Add pagination for better user experience.
