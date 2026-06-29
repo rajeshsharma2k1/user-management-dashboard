@@ -26,12 +26,3 @@ GET - Fetch users.
 POST - Add a user (simulated).
 PUT - Edit a user.
 DELETE - Remove a user.
-
-<h1>Challenges & Improvements</h1>
-
-<h2>Challenges Faced</h2>
-
-<h2>Possible Improvements</h2>
-Implement a real backend with Node.js & Express for actual data persistence.
-Add pagination for better user experience.
-Improve form validation to prevent invalid inputs.
