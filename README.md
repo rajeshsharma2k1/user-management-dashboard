@@ -25,4 +25,4 @@ https://jsonplaceholder.typicode.com/users
 GET - Fetch users.
 POST - Add a user (simulated).
 PUT - Edit a user.
-DELETE - Remove a user
+DELETE - Remove a user.
